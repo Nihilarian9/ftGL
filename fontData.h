@@ -1,7 +1,7 @@
 /*
     A orthographic rendering of text using freetype and OpenGL
     created for arch linux but should be easily convertable to other operating systems
-    Copyright (C) 2018 Peter Martin
+    Copyright (C) 2018 Nihilarian9
     GPL v2.0
 */
 
